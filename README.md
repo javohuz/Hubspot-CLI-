@@ -57,5 +57,5 @@ hs filemanager upload <local_path> <hubspot_path>
 Example:
 
 ```bash
-hs filemanager upload information/information/lonasentape/img /information/lonasentape
+hs filemanager upload information/information/lonasentape/img /information/lonasentape/img
 ```
