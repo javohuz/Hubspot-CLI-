@@ -40,3 +40,22 @@ Example:
 ```bash
 hs filemanager fetch /information/lonasentape/img information/information/lonasentape
 ```
+
+---
+
+## 5️⃣ Upload File Manager Folder
+
+Format:
+
+```bash
+hs filemanager upload <local_path> <hubspot_path>
+```
+
+- First path → Local project folder  
+- Second path → HubSpot destination folder  
+
+Example:
+
+```bash
+hs filemanager upload information/information/lonasentape/img /information/lonasentape
+```
